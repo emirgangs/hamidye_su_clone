@@ -23,6 +23,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-//AuthService().handleAuthState() başlatma 
-//FirebaseAuth.instance.currentUser!.displayName! firebase girişten ad alma
-//FirebaseAuth.instance.currentUser!.email!
