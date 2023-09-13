@@ -3,5 +3,4 @@
 ## Contents
 -Firebase Auth with Google. <br/>
 -Firebase Cloud with Database and Storage <br/>
-**Kalın**
-*İtalik*
+**Application's İmages**
